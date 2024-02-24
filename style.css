@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    margin-left:12%;
+    margin-right: 12%;  
+    margin-top: 0.5%;
+}
+
+#navbarNav a{
+    color: lightgray !important;
+}
+#nav-link-active a{
+    color: rgb(70, 69, 69) !important;
+}
+
+.col-lg-6 h1{
+    color: #9747ff !important;
+    font-weight: 1000 !important;
+}
+.col-lg-6 p{
+    color: black !important;
+}
+.form-control{
+    border-right: none !important;
+}
+.input-group-text{
+    background-color: white !important;
+    border-left: none !important;
+}
+
+
+#hero-section-searchbar{
+    background-color:rgb(104, 81, 255) !important;
+    color: rgb(255, 255, 255) !important;
+    font-weight: 700 !important;
+    display: inline-flex !important;
+}
+
+#hero-section-h2{
+    font-weight: bold !important;
+    font-size: xx-large !important;
+}
+
+#hero-section-button{
+    background-color: white !important;
+    color: rgb(104, 81, 255) !important;
+    border-color: rgba(104, 81, 255, 0.5) !important;
+    margin-left: 2.3% !important;
+    margin-bottom: 2% !important;
+    font-weight: bold !important;
+}
+
+#hero-section-image{
+    margin-top: -5% !important;
+}
+#hero-section-h3{
+    font-weight: bold !important;
+    font-size:  !important;
+    display: flex !important;
+    justify-content: center !important;
+    color: rgb(104, 81, 255) !important;
+}
+#p-3{
+    display: flex !important;
+    justify-content: center !important;
+}
